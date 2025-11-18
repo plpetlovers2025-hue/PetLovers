@@ -1,0 +1,199 @@
+
+1. **Userflows completos**
+2. **Textos de onboarding**
+3. **Copy para App Store e Play Store**
+
+# 🟦 **1) USERFLOWs PARA A APP PETLOVERS**
+
+### **A) Fluxo – Onboarding + Registo (Tutor)**
+
+1. Abre app
+2. Slide 1: “O teu melhor amigo em boas mãos” → Next
+3. Slide 2: “Encontra petsitters de confiança” → Next
+4. Slide 3: “Agenda, paga e controla tudo na app” → Começar
+5. Escolher: “Sou Tutor / Dono”
+6. Criar conta com email + password
+7. Adicionar informações pessoais:
+
+   * Nome
+   * Cidade
+   * Telefone
+   * Foto (opcional)
+8. Dashboard tutor carregado
+9. App sugere: “Adiciona o teu primeiro animal”
+10. Tutor cria perfil do pet
+
+---
+
+### **B) Fluxo – Onboarding + Registo (Petsitter)**
+
+1. Abre app
+2. Escolher “Sou Petsitter”
+3. Criar conta com email + password
+4. Adicionar:
+
+   * Nome
+   * Cidade
+   * Identificação
+   * Foto
+   * Experiência
+5. Definir serviços que presta
+6. Definir preços
+7. Definir disponibilidade
+8. Dashboard Petsitter carregado
+9. Estado: “Conta em aprovação / Validada” (opcional)
+
+---
+
+### **C) Fluxo – Adicionar Pet (Tutor)**
+
+1. Dashboard tutor
+2. Botão “Adicionar Pet”
+3. Preencher: Nome, idade, peso, género, cidade
+4. Upload de foto
+5. Criar registos opcionais:
+
+   * Vacinas
+   * Desparasitação
+   * Doenças crónicas
+   * Cirurgias
+   * Notas de saúde
+6. Guardar
+7. Pet aparece na lista do tutor
+
+---
+
+### **D) Fluxo – Agendamento (Tutor)**
+
+1. Tutor abre app
+2. Vai a “Agendar Serviço”
+3. Escolhe tipo de serviço (dog walking, visita ao gato, petsitting, etc.)
+4. Escolhe pet
+5. Seleciona data + hora
+6. Lista de petsitters disponíveis aparece
+7. Tutor escolhe petsitter
+8. Revisão → valor total + taxas
+9. Enviar pré-agendamento
+10. Estado: “A aguardar confirmação do Petsitter”
+
+---
+
+### **E) Fluxo – Receção do Pedido (Petsitter)**
+
+1. Petsitter recebe notificação
+2. Abre pedido
+3. Vê detalhes:
+
+   * Pet
+   * Serviço
+   * Data e hora
+   * Endereço / Localização
+4. Aceitar ou recusar
+5. Se recusar → tutor é notificado
+6. Se aceitar → segue para pagamento em escrow
+
+---
+
+### **F) Fluxo – Pagamento (Tutor)**
+
+1. Tutor recebe notificação: “O Petsitter aceitou o pedido”
+2. É direcionado para ecrã de pagamento
+3. Vê:
+
+   * Preço serviço
+   * Taxa da plataforma
+   * Total a pagar
+4. Pagamento via Stripe
+5. Valor fica em ESCROW
+6. Estado da reserva: “Confirmado”
+
+---
+
+### **G) Fluxo – Serviço em progresso**
+
+1. No dia do serviço
+2. Petsitter pode marcar “Iniciado”
+3. Tutor recebe notificação
+4. Após finalizar serviço → Petsitter marca “Concluído”
+5. Tutor confirma → pagamento libertado
+6. Avaliação mútua (estrelas + comentário)
+
+---
+
+# 🟧 **2) TEXTOS DE ONBOARDING**
+
+### **Slide 1 – Boas-vindas**
+
+**PetLovers – Cuidamos do teu melhor amigo**
+Uma plataforma segura para encontrares petsitters de confiança.
+
+### **Slide 2 – Agendamento simples**
+
+**Agenda serviços em segundos**
+Escolhe o petsitter ideal, define o horário e deixa o resto connosco.
+
+### **Slide 3 – Segurança em primeiro lugar**
+
+**Pagamentos protegidos com escrow**
+Pagas só quando o serviço estiver concluído — sem riscos.
+
+### **Slide 4 – Tudo num só lugar**
+
+**Perfil do teu pet sempre atualizado**
+Vacinas, tratamentos, anotações e histórico de serviços.
+
+Botão final: **Criar Conta**
+
+---
+
+---
+
+# 🟩 **3) COPY PARA APP STORE E PLAY STORE**
+
+## 🐾 *PetLovers – App de Pet Sitting com Pagamento Seguro*
+
+### 📱 **Descrição curta (Play Store)**
+
+Encontra petsitters de confiança, agenda serviços e paga de forma segura. O teu animal merece o melhor.
+
+---
+
+### 🧡 **Descrição longa (App Store / Play Store)**
+
+**PetLovers é a app criada para tutores que querem o melhor para os seus animais — e para petsitters que procuram uma forma segura de oferecer os seus serviços.**
+
+Com a PetLovers podes:
+
+### 🐶 **Para Tutores**
+
+* Encontrar petsitters verificados
+* Agendar serviços como dog walking, petsitting, visitas, treinos e muito mais
+* Guardar perfis dos teus animais com vacinas, tratamentos e cuidados
+* Pagar de forma segura através de ESCROW
+* Avaliar cada petsitter após o serviço
+
+### 🧑‍🦱 **Para Petsitters**
+
+* Criar perfil profissional
+* Definir preços e serviços
+* Receber pedidos de agendamento
+* Aceitar, recusar e gerir o teu calendário
+* Receber pagamentos após confirmação
+
+### 🔐 **Segurança e Confiança**
+
+* Pagamento em escrow: o valor só é libertado após o serviço ser concluído
+* Sistema de avaliação bidirecional
+* Perfis completos de pets e petsitters
+
+### 🎯 **Ideal para:**
+
+* Donos de cães e gatos
+* Petsitters experientes
+* Novos cuidadores que procuram trabalho flexível
+
+**PetLovers – porque o teu animal merece os melhores cuidados.**
+
+---
+
+
