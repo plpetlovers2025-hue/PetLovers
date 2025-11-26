@@ -29,6 +29,7 @@ https://petowners-caption.lovable.app/
 
 ## Figma
 https://www.figma.com/design/7hoPFEQmnAb5L9CNDymEMO/PetLovers?node-id=86-30&t=JnSvi2lKV6hULjcH-1
+https://www.figma.com/design/0OfLfdORTyhmBJRUcgICiJ/Tarefa-4---UFCD-10945?node-id=0-1&t=Pt0EGYmi9nNYn2fT-1
 
 ## Webflow
 https://petlovers-21e01a.webflow.io/
