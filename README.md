@@ -35,6 +35,9 @@ https://www.figma.com/design/0OfLfdORTyhmBJRUcgICiJ/Tarefa-4---UFCD-10945?node-i
 https://petlovers-21e01a.webflow.io/
 https://cv-catarina-marcos-tester.webflow.io/
 
+## Google Forms
+https://forms.gle/GQqxqUQJvfQsGZd49
+https://forms.gle/uDqrdyX1JxcDDnjCA
 
 
 
